@@ -1,6 +1,8 @@
 # Q Learning
 Repositori ini berisikan environment game yang dipakai untuk salah satu algoritma reinforcement learning yaitu q learning.
 
+https://user-images.githubusercontent.com/56197074/126945647-71acc50c-3463-4150-b35e-059ad06fcbbb.mp4
+
 ## How To Use
 Berikut merupakan tatacara menggunakan source code q learning ini:
 
