@@ -35,4 +35,6 @@ learning_rate : float, 0-1 (kecepatan pembelajaran agen)
 disc_rate : float, 0-1 (nilai gamma)
 explore_decay_rate : float, 0-1 (laju decay dari masa eksplorasi)
 render : boolean (jika ingin melihat secara langsung pembelajaran yang dilakukan oleh agen)
+
+return q_table (tabel hasil q learning), win (jumlah kemenangan), lose (jumlah kalah)
 ```
